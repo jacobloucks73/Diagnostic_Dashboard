@@ -26,7 +26,7 @@ public class HP_FAN_MODULE extends JPanel {
 
         // Title at the top
         JLabel title = new JLabel("Fan Metrics", SwingConstants.CENTER);
-        add(title, BorderLayout.NORTH); 
+        add(title, BorderLayout.NORTH);
 
         // Center panel to display fan speeds
         centerPanel = new JPanel();
